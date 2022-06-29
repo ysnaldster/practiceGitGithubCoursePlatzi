@@ -21,3 +21,15 @@ body
 {
     font-size: 20px;
 }
+
+#header 
+{
+    background: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.5);
+}
+
+

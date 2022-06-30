@@ -5,4 +5,6 @@ En camara parece alto pero la verdad no es tan alto.
 
 Hoy hablaremos de su vida
 
-También con tiene una maestria para manejar git de forma profesional  
+También con tiene una maestria para manejar git de forma profesional 
+
+Cambios para validar SSH 

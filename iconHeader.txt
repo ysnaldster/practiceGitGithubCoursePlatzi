@@ -1,0 +1,1 @@
+Este es un archivo para simular el insert del icono al header en la aplicacion

@@ -13,4 +13,6 @@ Cambios en history para probar pull request
 
 Unos cambios para volver a practicar el pull request con GitHub
 
-Se hacen los cambios faltantes 
+Se hacen los cambios faltantes
+
+Master 1

@@ -1,0 +1,1 @@
+Este es un archivo de repaso para validar mis conocimientos en Git y GitHub.

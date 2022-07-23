@@ -1,0 +1,1 @@
+Este es un archivo que simula un footer de un proyecto web comun 
